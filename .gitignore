@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.ex
+*.out
+*.sh
+*.log
+INC/_utils.h
+INC/_ops.h
+INC/_problem.h
+INC/_optimizer.h
+build/
+.vscode/
